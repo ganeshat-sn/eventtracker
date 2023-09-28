@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ganesh.bhandare</sys_created_by>
+        <sys_created_on>2023-09-28 04:42:51</sys_created_on>
+        <sys_id>c24e0b61976d31103a073217f053af64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1055181_wishlist_wish_item.x_1055181_wishlist.user</sys_name>
+        <sys_package display_value="WishList" source="x_1055181_wishlist">a0bd4f21976d31103a073217f053afa8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">a0bd4f21976d31103a073217f053afa8</sys_scope>
+        <sys_security_acl display_value="x_1055181_wishlist_wish_item">024e0b61976d31103a073217f053af62</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c24e0b61976d31103a073217f053af64</sys_update_name>
+        <sys_updated_by>ganesh.bhandare</sys_updated_by>
+        <sys_updated_on>2023-09-28 04:42:51</sys_updated_on>
+        <sys_user_role display_value="x_1055181_wishlist.user" name="x_1055181_wishlist.user">dacd0361976d31103a073217f053af15</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
